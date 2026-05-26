@@ -6,3 +6,4 @@ print(F"{exemplo}")
 exemplo3 = 44
 exemplo4 = 556
 exemplo5 = 600
+exepmlo6 = 700
